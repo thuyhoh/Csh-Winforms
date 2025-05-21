@@ -1,4 +1,4 @@
-# Csh-Winforms
+ư# Csh-Winforms
 ## I. Thành phần trong Winfroms
 ### 1. label
 ### 2. button
@@ -15,17 +15,21 @@
 ### 14. Tool tip
 ### 15. Status bar
 ### 16. Context menu
-### 17. Notify con
-### 18. Thread 
-### 19. Timer
-### 20. Processbar
-### 21. Numericup down
-### 22. Process
-### 23. Date time picker
-### 24. LinQ
-### 25. Entry frame work
+### 17. Serial Port
 
-## II. Quá trình triển khai một 
+
+
+### 18. Notify con
+### 19. Thread 
+### 20. Timer
+### 21. Processbar
+### 22. Numericup down
+### 23. Process
+### 24. Date time picker
+### 25. LinQ
+### 26. Entry frame work
+
+## II. Quá trình triển khai một App
 #### 1. tải extension
 - chọn Extension => Manage Extenstion. Tìm Microsoft Visual Studio Installer Porject 2022
 ![image](./tutorial_img/img15.png)
